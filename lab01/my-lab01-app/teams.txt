@@ -1,0 +1,18 @@
+1. Demographics:
+    a. I'm a junior.
+    b. My major is BCS.
+    c. I got an A in CS 112, and I'm taking CS 212 this semester.
+
+2. Technical:
+    a. I haven't worked on JavaScript applications or SQL database systems before.
+    b. I have a GitHub account but I haven't used it a lot.
+    c.  mobile game
+        an app for Hekman library that can make book searching process easier
+        an app for all the student organizations on campus that can make it easier to follow all the new events and give students that are unable to go to Coke&Club the opportunity to get in touch with them
+
+
+3. Personality:
+    a. Openness: 52, Conscientiousness: 81, Extraversion: 12.5, Agreeableness: 46, Neuroticism: 35
+    b. I'd like to work with Chang Liu from section B.
+
+4. I haven't used JavaScript and HTML before, and I have to learn them from beginning this semester.

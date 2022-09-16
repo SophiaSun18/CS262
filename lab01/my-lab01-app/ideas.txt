@@ -1,0 +1,6 @@
+An application that you think is both interesting and tractable:
+    I'm interested in building an app for Hekman library. Although Hekman has it's own website, it's more convenient to have a mobile app that students can check the avaliability of books and articles from their mobile, and it might be better if students can check out or make extension for the books through this app as well.
+
+A wacky application that would really be sweet:
+    An application that can sneak into my brain and record all my dreams during sleeping so I can wake up and check out my phone to recall the dreams that I forgot.
+    It would be better if it can record my ideas and turn them into words automatically, so I only need to think through sentences in my mind and this app will type my essay out on my laptop for me.
