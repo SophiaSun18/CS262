@@ -1,4 +1,4 @@
-CS 262 - Lab 02
+# CS 262 - Lab 02
 This lab is based on https://cs.calvin.edu/courses/cs/262/kvlinden/02management/lab.html.
 
 This is the image sharing application from CS 262 Lab 2 Exercise 2.4.

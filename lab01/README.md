@@ -1,4 +1,4 @@
-CS 262 - Lab 01
+# CS 262 - Lab 01
 This lab is based on https://cs.calvin.edu/courses/cs/262/kvlinden/01introduction/lab.html.
 
 This is the Hello-World application from CS 262 Lab 1 Expercise 1.3.
