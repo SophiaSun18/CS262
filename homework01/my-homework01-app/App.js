@@ -43,12 +43,12 @@ export default function App() {
       </View>
 
       {/* Write a task. */}
-      <KeyboardAvoidingView
-        behavior = {Platform.OS === "ios" ? "padding" : "height"}
-        style = {styles.writeTaskWrapper}
+      <KeyboardAvoidingView 
+        behavior={Platform.OS === "ios" ? "padding" : "height"}
+        style={styles.writeTaskWrapper}
       >
-        <TextInput style={styles.input} placeholder={'Write a task.'} value={task} onChangeText={text => setTask(task)}/>
-        <TouchableOpacity onPress={() => handleAddTask()}> 
+        <TextInput style={styles.input} placeholder={'Write a task'} value={task} onChangeText={text => setTask(text)} />
+        <TouchableOpacity onPress={() => handleAddTask()}>
           <View style={styles.addWrapper}>
             <Text style={styles.addText}>+</Text>
           </View>
