@@ -8,3 +8,5 @@ Sophia Sun's CS 262 codes.
 9/23 update: upload lab04 folder
 
 10/2 update: upload lab05 folder
+
+10/8 update: upload lab06 folder
