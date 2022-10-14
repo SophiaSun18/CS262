@@ -10,3 +10,5 @@ Sophia Sun's CS 262 codes.
 10/2 update: upload lab05 folder
 
 10/8 update: upload lab06 folder
+
+10/14 update: upload homework02 folder
