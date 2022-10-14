@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Button, View, Text, TouchableOpacity, FlatList } from 'react-native';
+import { View, Text } from 'react-native';
 
 export default function AboutScreen({ navigation }) {
     return (

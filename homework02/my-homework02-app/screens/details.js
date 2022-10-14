@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
-import { Button, View, Text, TouchableOpacity, FlatList } from 'react-native';
+import { View, Text } from 'react-native';
 
-export default function DetailsScreen({ navigation }) {
+export default function DetailsScreen({ route, navigation }) {
     return (
         <View style={{ flex: 1, padding: 20}}>
-            <Text>{ route.params.title }</Text>
-            <Text>{ route.params.rating }</Text>
-            <Text>{ route.params.description }</Text>
+            <Text>{ route.params.emailaddress }</Text>
+            <Text>{ 'ID: ' + route.params.id }</Text>
+            <Text>{ 'Aka: ' + route.params.name }</Text>
         </View>
     );
 }
