@@ -7,7 +7,7 @@ Is the service RESTful? If not, why not? If so, what key features make it RESTfu
 Is there any evidence in your implementation of an impedance mismatch?
 
 Answers to the lab questions:
-**   https://frozen-falls-21593.herokuapp.com/
+*   https://frozen-falls-21593.herokuapp.com/
 *   https://frozen-falls-21593.herokuapp.com/players
 *   https://frozen-falls-21593.herokuapp.com/players/1
 *   https://frozen-falls-21593.herokuapp.com/playersScore/1
