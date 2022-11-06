@@ -7,10 +7,11 @@ Is the service RESTful? If not, why not? If so, what key features make it RESTfu
 Is there any evidence in your implementation of an impedance mismatch?
 
 Answers to the lab questions:
-*   https://frozen-falls-21593.herokuapp.com/
-    https://frozen-falls-21593.herokuapp.com/players
-    https://frozen-falls-21593.herokuapp.com/players/1
-    https://frozen-falls-21593.herokuapp.com/playersScore/1
+**   https://frozen-falls-21593.herokuapp.com/
+*   https://frozen-falls-21593.herokuapp.com/players
+*   https://frozen-falls-21593.herokuapp.com/players/1
+*   https://frozen-falls-21593.herokuapp.com/playersScore/1
+
 *   All these endpoints implement actions that are both idempotent and nullipotent, as they won't make any changes to the database, and no matter how many tiems they are executed, the result returned are the same.
 *   Yes. The service won't memorize the last instruction, and it uses standarlized URL and JSON to read and transfer data.
 *   Not in the current state.
